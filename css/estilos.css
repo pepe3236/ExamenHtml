@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(203, 203, 223);
+}
+
 .color1{
     background: orange;
 }
@@ -12,4 +16,8 @@
 
 .encabezado{
     background:white;
+}
+.m{
+    margin-top: 3px;
+    background: burlywood;
 }
